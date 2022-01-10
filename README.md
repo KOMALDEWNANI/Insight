@@ -28,4 +28,9 @@ The App has a very interactive interface and users who love reading news can hav
 - Retrofit - To make it easier to consume RESTful web services.
 
 ### Application Link & Future Scope :
+- You can access the app by clicking here: https://github.com/KOMALDEWNANI/Insight/releases/tag/v1.0.0
+- We plan to categorize the news into different sections like educational, current affairs, technology etc.
+- Include Authentication feature by using OAuth framework.
+- Ask for user's interest and filter news accordingly.
+
 
